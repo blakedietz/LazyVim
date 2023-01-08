@@ -5,6 +5,7 @@ local servers = {
   clangd = {},
   cssls = {},
   tsserver = {},
+  tailwindcss_language_server = {},
   html = {},
   jsonls = {},
   pyright = {},
